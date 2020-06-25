@@ -2,7 +2,7 @@ CC=clang++
 CXX=clang++
 CXXFLAGS=-Wall -Wextra -Werror -std=c++17
 
-EXECUTABLES=name-age name-age-class
+EXECUTABLES=name-age name-age-class vector-sort write-read-file
 
 all: $(EXECUTABLES)
 
